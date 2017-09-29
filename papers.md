@@ -10,24 +10,24 @@
 - Ondřej Lhoták and Laurie Hendren. [Scaling Java Points-to Analysis Using Spark](https://doi.org/10.1007/3-540-36579-6_12), CC '03, pages 153-169.
 
 # IFDS & IDE
-- Thomas W. Reps, Susan Horwitz, and Shmuel Sagiv. [Precise Interprocedural Dataflow Analysis via Graph Reachability](http://doi.acm.org/10.1145/199448.199462), POPL'95, pages 49-61.
+- Thomas W. Reps, Susan Horwitz, and Shmuel Sagiv. [Precise Interprocedural Dataflow Analysis via Graph Reachability](http://doi.acm.org/10.1145/199448.199462), POPL '95, pages 49-61.
 - Shmuel Sagiv, Thomas W. Reps, and Susan Horwitz. [Precise Interprocedural Dataflow Analysis with Applications to Constant Propagation](https://doi.org/10.1016/0304-3975(96)00072-2), Theoretical Computer Science, 167(1-2):131-170, 1996.
-- Nomair A. Naeem, Ondřej Lhoták, and Jonathan Rodriguez. [Practical Extensions to the IFDS Algorithm](http://dx.doi.org/10.1007/978-3-642-11970-5_8), CC'10, pages 124-144.
+- Nomair A. Naeem, Ondřej Lhoták, and Jonathan Rodriguez. [Practical Extensions to the IFDS Algorithm](http://dx.doi.org/10.1007/978-3-642-11970-5_8), CC '10, pages 124-144.
 - Johannes Lerch, Johannes Späth, Eric Bodden, Mira Mezini. [Access-Path Abstraction: Scaling Field-Sensitive Data-Flow Analysis with Unbounded Access Paths (T)](http://dx.doi.org/10.1109/ASE.2015.9), ASE '15, pages 619-629.
 - Johannes Späth, Lisa Nguyen Quang Do, Karim Ali, Eric Bodden. [Boomerang: Demand-Driven Flow- and Context-Sensitive Pointer Analysis for Java](http://dx.doi.org/10.4230/LIPIcs.ECOOP.2016.22), ECOOP '16, pages 22:1-22:26.
 - Johannes Späth, Karim Ali, Eric Bodden. [IDEal: Efficient and Precise Alias-Aware Dataflow Analysis](http://doi.org/10.1145/3133923), OOPSLA '17 (to appear).
 
 # Typestate Analysis
-- Nomair A. Naeem and Ondřej Lhoták. [Typestate-like Analysis of Multiple Interacting Objects](http://doi.acm.org/10.1145/1449764.1449792), OOPSLA'08, pages 347-366.
-- Xin Zhang, Ravi Mangal, Mayur Naik, and Hongseok Yang. [Hybrid Top-down and Bottom-up Interprocedural Analysis](http://doi.acm.org/10.1145/2594291.2594328), PLDI'14, pages 249-258.
+- Nomair A. Naeem and Ondřej Lhoták. [Typestate-like Analysis of Multiple Interacting Objects](http://doi.acm.org/10.1145/1449764.1449792), OOPSLA '08, pages 347-366.
+- Xin Zhang, Ravi Mangal, Mayur Naik, and Hongseok Yang. [Hybrid Top-down and Bottom-up Interprocedural Analysis](http://doi.acm.org/10.1145/2594291.2594328), PLDI '14, pages 249-258.
 
 # Analysis Frameworks and Infrastructure
-- Martin Bravenboer and Yannis Smaragdakis. Strictly declarative specification of sophisticated points-to analyses, OOPSLA'09, pages 243-262.
-- Raja Vallée-Rai, Etienne Gagnon, Laurie J. Hendren, Patrick Lam, Patrice Pominville, and Vijay Sundaresan. Optimizing Java Bytecode Using the Soot Framework: Is It Feasible?, CC'00, pages 18-34.
-- Caitlin Sadowski, Jeffrey van Gogh, Ciera Jaspan, Emma Söderberg, and Collin Winter. Tricorder: Building a Program Analysis Ecosystem, ICSE'15, pages 598-608.
-- Jens Dietrich, Nicholas Hollingum, and Bernhard Scholz. Giga-Scale Exhaustive Points-To Analysis for Java in Under a Minute, OOPSLA'15.
-- Rohan Padhye and Uday P. Khedker. Interprocedural data flow analysis in Soot using value contexts, SOAP'13, pages 31-36.
-- Cristiano Calcagno and Dino Distefano. Infer: An automatic program verifier for memory safety of C programs, NFM '11, volume 6617 of LNCS, pages 459–465.
+- Martin Bravenboer and Yannis Smaragdakis. [Strictly declarative specification of sophisticated points-to analyses](http://doi.acm.org/10.1145/1640089.1640108), OOPSLA '09, pages 243-262.
+- Raja Vallée-Rai, Etienne Gagnon, Laurie J. Hendren, Patrick Lam, Patrice Pominville, and Vijay Sundaresan. [Optimizing Java Bytecode Using the Soot Framework: Is It Feasible?](http://dx.doi.org/10.1007/3-540-46423-9_2), CC '00, pages 18-34.
+- Caitlin Sadowski, Jeffrey van Gogh, Ciera Jaspan, Emma Söderberg, and Collin Winter. [Tricorder: Building a Program Analysis Ecosystem](http://dx.doi.org/10.1109/ICSE.2015.76), ICSE '15, pages 598-608.
+- Jens Dietrich, Nicholas Hollingum, and Bernhard Scholz. [Giga-Scale Exhaustive Points-To Analysis for Java in Under a Minute](http://dx.doi.org/10.1145/2814270.2814307), OOPSLA '15, pages 535-551.
+- Rohan Padhye and Uday P. Khedker. [Interprocedural Data Flow Analysis in Soot Using Value Contexts](http://dx.doi.org/10.1145/2487568.2487569), SOAP '13, pages 31-36.
+- Cristiano Calcagno and Dino Distefano. [Infer: An Automatic Program Verifier for Memory Safety of C Programs](http://dx.doi.org/10.1007/978-3-642-20398-5_33), NFM '11, volume 6617 of LNCS, pages 459–465.
 
 # Android Security
 - S. Arzt, S. Rasthofer, C. Fritz, E. Bodden, A. Bartel, J. Klein, Y. L. Traon, D. Octeau, and P. McDaniel. FlowDroid: Precise Context, Flow, Field, Object-sensitive and Lifecycle-aware Taint Analysis for Android Apps, PLDI'14, page 29.
