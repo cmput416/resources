@@ -30,14 +30,14 @@
 - Cristiano Calcagno and Dino Distefano. [Infer: An Automatic Program Verifier for Memory Safety of C Programs](http://dx.doi.org/10.1007/978-3-642-20398-5_33), NFM '11, volume 6617 of LNCS, pages 459–465.
 
 # Android Security
-- S. Arzt, S. Rasthofer, C. Fritz, E. Bodden, A. Bartel, J. Klein, Y. L. Traon, D. Octeau, and P. McDaniel. FlowDroid: Precise Context, Flow, Field, Object-sensitive and Lifecycle-aware Taint Analysis for Android Apps, PLDI'14, page 29.
-- Damien Octeau, Daniel Luchaup, Matthew Dering, Somesh Jha, and Patrick McDaniel. Composite Constant Propagation: Application to Android Inter-Component Communication Analysis, ICSE'15, pages 77-88.
-- Shengqian Yang, Dacong Yan, Haowei Wu, Yan Wang, and Atanas Rountev. Static Control-Flow Analysis of User-Driven Callbacks in Android Applications, ICSE'15, pages 89-99.
-- Paolina Centonze, Marco Pistoia, and Omer Tripp. Access-rights Analysis in the Presence of Subjects, ECOOP'15, pages 222-246.
-- Lucas Brutschy, Pietro Ferrara, Omer Tripp, and Marco Pistoia. ShamDroid: Gracefully Degrading Functionality in the Presence of Limited Resource Access, OOPSLA'15.
-- Pallavi Maiya, Aditya Kanade, and Rupak Majumdar. Race Detection for Android Applications, PLDI'14, page 34.
-- Jianjun Huang, Xiangyu Zhang, Lin Tan, Peng Wang, and Bin Liang. AsDroid: Detecting Stealthy Behaviors in Android Applications by User Interface and Program Behavior Contradiction, ICSE'14, pages 1036-1046.
-- William Enck, Peter Gilbert, Byung-Gon Chun, Landon P. Cox, Jaeyeon Jung, Patrick McDaniel, and Anmol N. Sheth. TaintDroid: an information-flow tracking system for realtime privacy monitoring on smartphones, OSDI'10 @ USENIX, pages 1-6.
+- Steven Arzt, Siegfried Rasthofer, Christian Fritz, Eric Bodden, Alexandre Bartel, Jacques Klein, Yves Le Traon, Damien Octeau, and Patrick McDaniel. [FlowDroid: Precise Context, Flow, Field, Object-sensitive and Lifecycle-aware Taint Analysis for Android Apps](http://doi.acm.org/10.1145/2594291.2594299), PLDI '14, pages 259-269.
+- Damien Octeau, Daniel Luchaup, Matthew Dering, Somesh Jha, and Patrick McDaniel. [Composite Constant Propagation: Application to Android Inter-Component Communication Analysis](http://dx.doi.org/10.1109/ICSE.2015.30), ICSE '15, pages 77-88.
+- Shengqian Yang, Dacong Yan, Haowei Wu, Yan Wang, and Atanas Rountev. [Static Control-Flow Analysis of User-Driven Callbacks in Android Applications](http://dx.doi.org/10.1109/ICSE.2015.31), ICSE '15, pages 89-99.
+- Paolina Centonze, Marco Pistoia, and Omer Tripp. [Access-Rights Analysis in the Presence of Subjects](http://dx.doi.org/10.4230/LIPIcs.ECOOP.2015.222), ECOOP '15, pages 222-246.
+- Lucas Brutschy, Pietro Ferrara, Omer Tripp, and Marco Pistoia. [ShamDroid: Gracefully Degrading Functionality in the Presence of Limited Resource Access](http://doi.acm.org/10.1145/2814270.2814296), OOPSLA '15, pages 316-331.
+- Pallavi Maiya, Aditya Kanade, and Rupak Majumdar. [Race Detection for Android Applications](https://doi.org/10.1145/2666356.2594311), PLDI '14, page 316-325.
+- Jianjun Huang, Xiangyu Zhang, Lin Tan, Peng Wang, and Bin Liang. [AsDroid: Detecting Stealthy Behaviors in Android Applications by User Interface and Program Behavior Contradiction](https://doi.org/10.1145/2568225.2568301), ICSE '14, pages 1036-1046.
+- William Enck, Peter Gilbert, Byung-Gon Chun, Landon P. Cox, Jaeyeon Jung, Patrick McDaniel, and Anmol N. Sheth. [TaintDroid: An Information-Flow Tracking System for Realtime Privacy Monitoring on Smartphones](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Enck.pdf), OSDI'10 @ USENIX.
 
 # Analyzing Dynamic Languages
 - David Hauzar and Jan Kofroň. Framework for Static Analysis of PHP Applications, ECOOP'15, pages 689-711.
