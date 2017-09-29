@@ -1,13 +1,13 @@
-# Monoton Dataflow Framework & Abstract Interpretation
-- John B. Kam and Jeffrey D. Ullman. Monotone Data Flow Analysis Frameworks, Acta Inf., 7:305-317, 1977.
+# Monotone Dataflow Framework & Abstract Interpretation
+- John B. Kam and Jeffrey D. Ullman. [Monotone Data Flow Analysis Frameworks](https://doi.org/10.1007/BF00290339), Acta Informatica, 7:305-317, 1977.  
 - Flemming Nielson, Hanne Riis Nielson, and Chris Hankin. Principles of Program Analysis, 2005, Chapter 4.
 
 # Points-to and Call Graphs
-- Olin Shivers. Control flow analysis in scheme, PLDI'88, pages 167-174.
-- Frank Tip, Jens Palsberg. Scalable Propagation-Based Call Graph Construction Algorithms, OOPSLA'00, pages 281-293.
-- Karim Ali, Marianna Rapoport, Ondřej Lhoták, Julian Dolby, and Frank Tip. Constructing Call Graphs of Scala Programs, ECOOP'14, pages 54-79.
-- Karim Ali and Ondřej Lhoták. Averroes: Whole-Program Analysis Without the Whole Program, ECOOP'13, pages 378-400.
-- Ondřej Lhoták and Laurie Hendren. Scaling Java Points-to Analysis Using Spark, CC 2003, pages 153-169.
+- Olin Shivers. [Control Flow Analysis in Scheme](http://dx.doi.org/10.1145/53990.54007), PLDI '88, pages 167-174.
+- Frank Tip, Jens Palsberg. [Scalable Propagation-Based Call Graph Construction Algorithms](http://doi.acm.org/10.1145/353171.353190), OOPSLA '00, pages 281-293.
+- Karim Ali, Marianna Rapoport, Ondřej Lhoták, Julian Dolby, and Frank Tip. [Constructing Call Graphs of Scala Programs](http://dx.doi.org/10.1007/978-3-662-44202-9_3), ECOOP '14, pages 54-79.  
+- Karim Ali and Ondřej Lhoták. [Averroes: Whole-Program Analysis Without the Whole Program](http://dx.doi.org/10.1007/978-3-642-39038-8_16), ECOOP '13, pages 378-400.
+- Ondřej Lhoták and Laurie Hendren. [Scaling Java Points-to Analysis Using Spark](https://doi.org/10.1007/3-540-36579-6_12), CC '03, pages 153-169.
 
 # IFDS & IDE
 - Thomas W. Reps, Susan Horwitz, and Shmuel Sagiv. Precise Interprocedural Dataflow Analysis via Graph Reachability, POPL'95, pages 49-61.
