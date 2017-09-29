@@ -10,15 +10,16 @@
 - Ondřej Lhoták and Laurie Hendren. [Scaling Java Points-to Analysis Using Spark](https://doi.org/10.1007/3-540-36579-6_12), CC '03, pages 153-169.
 
 # IFDS & IDE
-- Thomas W. Reps, Susan Horwitz, and Shmuel Sagiv. Precise Interprocedural Dataflow Analysis via Graph Reachability, POPL'95, pages 49-61.
-- Shmuel Sagiv, Thomas W. Reps, and Susan Horwitz. Precise interprocedural dataflow analysis with applications to constant propagation, Theoretical Computer Science, 167(1-2):131-170, 1996.
-- Nomair A. Naeem, Ondřej Lhoták, and Jonathan Rodriguez. Practical Extensions to the IFDS Algorithm, CC'10, pages 124-144.
-- Johannes Lerch, Johannes Späth, Eric Bodden, Mira Mezini. Access-Path Abstraction: Scaling Field-Sensitive Data-Flow Analysis with Unbounded Access Paths (T), ASE '15, pages 619-629.
-- Johannes Späth, Lisa Nguyen Quang Do, Karim Ali, Eric Bodden. Boomerang: Demand-Driven Flow- and Context-Sensitive Pointer Analysis for Java. ECOOP '16, pages 22:1-22:26.
+- Thomas W. Reps, Susan Horwitz, and Shmuel Sagiv. [Precise Interprocedural Dataflow Analysis via Graph Reachability](http://doi.acm.org/10.1145/199448.199462), POPL'95, pages 49-61.
+- Shmuel Sagiv, Thomas W. Reps, and Susan Horwitz. [Precise Interprocedural Dataflow Analysis with Applications to Constant Propagation](https://doi.org/10.1016/0304-3975(96)00072-2), Theoretical Computer Science, 167(1-2):131-170, 1996.
+- Nomair A. Naeem, Ondřej Lhoták, and Jonathan Rodriguez. [Practical Extensions to the IFDS Algorithm](http://dx.doi.org/10.1007/978-3-642-11970-5_8), CC'10, pages 124-144.
+- Johannes Lerch, Johannes Späth, Eric Bodden, Mira Mezini. [Access-Path Abstraction: Scaling Field-Sensitive Data-Flow Analysis with Unbounded Access Paths (T)](http://dx.doi.org/10.1109/ASE.2015.9), ASE '15, pages 619-629.
+- Johannes Späth, Lisa Nguyen Quang Do, Karim Ali, Eric Bodden. [Boomerang: Demand-Driven Flow- and Context-Sensitive Pointer Analysis for Java](http://dx.doi.org/10.4230/LIPIcs.ECOOP.2016.22), ECOOP '16, pages 22:1-22:26.
+- Johannes Späth, Karim Ali, Eric Bodden. [IDEal: Efficient and Precise Alias-Aware Dataflow Analysis](http://doi.org/10.1145/3133923), OOPSLA '17 (to appear).
 
 # Typestate Analysis
-- Nomair A. Naeem and Ondřej Lhoták. Typestate-like Analysis of Multiple Interacting Objects, OOPSLA'08, pages 347-366.
-- Xin Zhang, Ravi Mangal, Mayur Naik, and Hongseok Yang. Hybrid Top-down and Bottom-up Interprocedural Analysis, PLDI'14, page 28.
+- Nomair A. Naeem and Ondřej Lhoták. [Typestate-like Analysis of Multiple Interacting Objects](http://doi.acm.org/10.1145/1449764.1449792), OOPSLA'08, pages 347-366.
+- Xin Zhang, Ravi Mangal, Mayur Naik, and Hongseok Yang. [Hybrid Top-down and Bottom-up Interprocedural Analysis](http://doi.acm.org/10.1145/2594291.2594328), PLDI'14, pages 249-258.
 
 # Analysis Frameworks and Infrastructure
 - Martin Bravenboer and Yannis Smaragdakis. Strictly declarative specification of sophisticated points-to analyses, OOPSLA'09, pages 243-262.
