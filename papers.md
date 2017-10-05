@@ -46,6 +46,7 @@
 - William Enck, Peter Gilbert, Byung-Gon Chun, Landon P. Cox, Jaeyeon Jung, Patrick McDaniel, and Anmol N. Sheth. [TaintDroid: An Information-Flow Tracking System for Realtime Privacy Monitoring on Smartphones](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Enck.pdf), OSDI'10 @ USENIX.
 
 # Analyzing Dynamic Languages
+- Vaseline Raychev, Martin Vechev, and Andreas Krause. [Predicting Program Properties from "Big Code"](https://doi.org/10.1145/2676726.2677009), POPL '15, pages 111-124.
 - David Hauzar and Jan Kofroň. [Framework for Static Analysis of PHP Applications](http://dx.doi.org/10.4230/LIPIcs.ECOOP.2015.689), ECOOP '15, pages 689-711.
 - Koushik Sen, Swaroop Kalasapur, Tasneem G. Brutch, and Simon Gibbs. [Jalangi: A Selective Record-Replay and Dynamic Analysis Framework for JavaScript](https://doi.org/10.1145/2491411.2491447), FSE '13, pages 488-498.
 - Magnus Madsen, Frank Tip, and Ondřej Lhoták. [Static Analysis of Event-Driven Node.js JavaScript Applications](https://doi.org/10.1145/2858965.2814272), OOPSLA '15, pages 505-519.
@@ -60,7 +61,5 @@
 - Marcel Bruch, Martin Monperrus, Mira Mezini. [Learning from Examples to Improve Code Completion Systems](https://doi.org/10.1145/1595696.1595728). FSE '09, pages 213-222.
 - Tihomir Gvero, Viktor Kuncak, Ivan Kuraj, Ruzica Piskac. [Complete Completion Using Types and Weights](https://doi.org/10.1145/2499370.2462192), PLDI '13, pages 27-38.
 
-# Big Code
-- Vaseline Raychev, Martin Vechev, and Andreas Krause. Predicting Program Properties from "Big Code", POPL'15, pages 111-124.
-- Veselin Raychev, Pavol Bielik, Martin T. Vechev, Andreas Krause. Learning programs from noisy data, POPL '16, pages 761-774.
-- Hitesh Sajnani, Vaibhav Saini, Jeffrey Svajlenko, Chanchal K. Roy, Cristina V. Lopes. SourcererCC: scaling code clone detection to big-code, ICSE '16, pages 1157-1168.
+# Program Synthesis
+- Veselin Raychev, Pavol Bielik, Martin Vechev, Andreas Krause. [Learning Programs from Noisy Data](https://doi.org/10.1145/2837614.2837671), POPL '16, pages 761-774.
