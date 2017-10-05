@@ -7,6 +7,7 @@
 # Monotone Dataflow Framework & Abstract Interpretation
 - John B. Kam and Jeffrey D. Ullman. [Monotone Data Flow Analysis Frameworks](https://doi.org/10.1007/BF00290339), Acta Informatica, 7:305-317, 1977.  
 - Flemming Nielson, Hanne Riis Nielson, and Chris Hankin. Principles of Program Analysis, 2005, Chapter 4.
+- Thomas Reps and Aditya Thakur. [Automating Abstract Interpretation](http://research.cs.wisc.edu/wpis/papers/vmcai16-invited.pdf).
 
 # Points-to and Call Graphs
 - Olin Shivers. [Control Flow Analysis in Scheme](http://dx.doi.org/10.1145/53990.54007), PLDI '88, pages 167-174.
@@ -35,7 +36,9 @@
 - Rohan Padhye and Uday P. Khedker. [Interprocedural Data Flow Analysis in Soot Using Value Contexts](http://dx.doi.org/10.1145/2487568.2487569), SOAP '13, pages 31-36.
 - Cristiano Calcagno and Dino Distefano. [Infer: An Automatic Program Verifier for Memory Safety of C Programs](http://dx.doi.org/10.1007/978-3-642-20398-5_33), NFM '11, volume 6617 of LNCS, pages 459–465.
 
-# Android Security
+# Security
+- Jean Yang, Travis Hance, Thomas H. Austin, Armando Solar-Lezama, Cormac Flanagan, Stephen Chong. [Precise, Dynamic Information Flow for Database-Backed Applications](https://doi.org/10.1145/2980983.2908098), PLDI '16, pages 631-647.
+- Neville Grech and Yannis Smaragdakis. [P/Taint: Unified Points-to and Taint Analysis](https://yanniss.github.io/ptaint-oopsla17-prelim.pdf), OOPSLA '17 (to appear).
 - Steven Arzt, Siegfried Rasthofer, Christian Fritz, Eric Bodden, Alexandre Bartel, Jacques Klein, Yves Le Traon, Damien Octeau, and Patrick McDaniel. [FlowDroid: Precise Context, Flow, Field, Object-sensitive and Lifecycle-aware Taint Analysis for Android Apps](http://doi.acm.org/10.1145/2594291.2594299), PLDI '14, pages 259-269.
 - Damien Octeau, Daniel Luchaup, Matthew Dering, Somesh Jha, and Patrick McDaniel. [Composite Constant Propagation: Application to Android Inter-Component Communication Analysis](http://dx.doi.org/10.1109/ICSE.2015.30), ICSE '15, pages 77-88.
 - Shengqian Yang, Dacong Yan, Haowei Wu, Yan Wang, and Atanas Rountev. [Static Control-Flow Analysis of User-Driven Callbacks in Android Applications](http://dx.doi.org/10.1109/ICSE.2015.31), ICSE '15, pages 89-99.
@@ -61,5 +64,12 @@
 - Marcel Bruch, Martin Monperrus, Mira Mezini. [Learning from Examples to Improve Code Completion Systems](https://doi.org/10.1145/1595696.1595728). FSE '09, pages 213-222.
 - Tihomir Gvero, Viktor Kuncak, Ivan Kuraj, Ruzica Piskac. [Complete Completion Using Types and Weights](https://doi.org/10.1145/2499370.2462192), PLDI '13, pages 27-38.
 
+# Clone Detection
+- Cristina V. Lopes, Petr Maj, Pedro Martins, Vaibhav Saini, Di Yang, Jakub Zitny, Hitesh Sajnani, and Jan Vitek. [DéjàVu: A Map of Code Duplicates on GitHub](http://janvitek.org/pubs/oopsla17b.pdf), OOPSLA '17.
+- Hitesh Sajnani, Vaibhav Saini, Jeffrey Svajlenko, Chanchal K. Roy, Cristina V. Lopes. [SourcererCC: Scaling Code Clone Detection to Big-Code](https://doi.org/10.1145/2884781.2884877), ICSE '16, pages 1157-1168.
+
 # Program Synthesis
 - Veselin Raychev, Pavol Bielik, Martin Vechev, Andreas Krause. [Learning Programs from Noisy Data](https://doi.org/10.1145/2837614.2837671), POPL '16, pages 761-774.
+
+# Probabilistic Programming
+- Chung-Kil Hur, Aditya V. Nori, Sriram K. Rajamani, and Selva Samuel. [Slicing Probabilistic Programs](https://doi.org/10.1145/2666356.2594303), PLDI '14, pages 133-144.
