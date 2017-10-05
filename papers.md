@@ -1,3 +1,9 @@
+# User Studies
+- Brittany Johnson, Yoonki Song, Emerson R. Murphy-Hill, and Robert W. Bowdidge. [Why Don't Software Developers Use Static Analysis Tools to Find Bugs?](https://doi.org/10.1109/ICSE.2013.6606613), ICSE '13, pages 672-681.
+- Justin Smith, Brittany Johnson, Emerson Murphy-Hill, Bill Chu, and Heather Richter Lipford. [Questions Developers Ask While Diagnosing Potential Security Vulnerabilities with Static Analysis](https://doi.org/10.1145/2786805.2786812), FSE '15, pages 248-259.
+- Jim Witschey, Olga Zielinska, Allaire Welk, Emerson Murphy-Hill, Chris Mayhorn, and Thomas Zimmermann. [Quantifying Developers' Adoption of Security Tools](https://doi.org/10.1145/2786805.2786816), FSE '15, pages 260-271.
+- Maria Christakis and Christian Bird. [What Developers Want and Need from Program Analysis: An Empirical Study](https://doi.org/10.1145/2970276.2970347), ASE '16, pages 332-343.
+
 # Monotone Dataflow Framework & Abstract Interpretation
 - John B. Kam and Jeffrey D. Ullman. [Monotone Data Flow Analysis Frameworks](https://doi.org/10.1007/BF00290339), Acta Informatica, 7:305-317, 1977.  
 - Flemming Nielson, Hanne Riis Nielson, and Chris Hankin. Principles of Program Analysis, 2005, Chapter 4.
@@ -58,10 +64,3 @@
 - Vaseline Raychev, Martin Vechev, and Andreas Krause. Predicting Program Properties from "Big Code", POPL'15, pages 111-124.
 - Veselin Raychev, Pavol Bielik, Martin T. Vechev, Andreas Krause. Learning programs from noisy data, POPL '16, pages 761-774.
 - Hitesh Sajnani, Vaibhav Saini, Jeffrey Svajlenko, Chanchal K. Roy, Cristina V. Lopes. SourcererCC: scaling code clone detection to big-code, ICSE '16, pages 1157-1168.
-
-# Usability of Static Analysis Tools
-- Brittany Johnson, Yoonki Song, Emerson R. Murphy-Hill, and Robert W. Bowdidge. Why don't software developers use static analysis tools to find bugs?, ICSE'13, pages 672-681.
-- Justin Smith, Brittany Johnson, Emerson Murphy-Hill, Bill Chu and Heather Richter Lipford. Questions Developers Ask While Diagnosing Potential Security Vulnerabilities with Static Analysis, FSE'15, pages 248-259.
-- Jim Witschey, Olga Zielinska, Allaire Welk, Emerson Murphy-Hill, Chris Mayhorn, and Thomas Zimmermann. Quantifying developers' adoption of security tools, FSE'15, pages 260-271.
-- Maria Christakis and Christian Bird. What Developers Want and Need from Program Analysis: An Empirical Study, ASE'16, pages 332-343.
-
