@@ -47,12 +47,12 @@
 - Shiyi Wei and Barbara Ryder. [Adaptive Context-sensitive Analysis for JavaScript](http://dx.doi.org/10.4230/LIPIcs.ECOOP.2015.712), ECOOP '15, pages 712-734.
 
 # Code Recommender Systems
-- Reid Holmes, Gail C. Murphy. Using structural context to recommend source code examples, ICSE '05, pages 117-125.
-- Sebastian Proksch, Johannes Lerch, Mira Mezini. Intelligent Code Completion with Bayesian Networks, TOSEM 25(1): 3 (2015).
-- Laura Moreno, Gabriele Bavota, Massimiliano Di Penta, Rocco Oliveto, Andrian Marcus. How Can I Use This Method? ICSE (1) 2015, pages 880-890.
-- Sebastian Proksch, Sven Amann, Sarah Nadi, Mira Mezini. Evaluating the evaluations of code recommender systems: a reality check. ASE '16, pages 111-121.
-- Marcel Bruch, Martin Monperrus, Mira Mezini. Learning from examples to improve code completion systems. FSE '09, pages 213-222.
-- Tihomir Gvero, Viktor Kuncak, Ivan Kuraj, Ruzica Piskac. Complete completion using types and weights, PLDI '13, pages 27-38.
+- Reid Holmes, Gail C. Murphy. [Using Structural Context to Recommend Source Code Examples](https://doi.org/10.1109/ICSE.2005.1553554), ICSE '05, pages 117-125.
+- Sebastian Proksch, Johannes Lerch, Mira Mezini. [Intelligent Code Completion with Bayesian Networks](https://doi.org/10.1145/2744200), TOSEM 25(1): 3 (2015).
+- Laura Moreno, Gabriele Bavota, Massimiliano Di Penta, Rocco Oliveto, Andrian Marcus. [How Can I Use This Method?](https://doi.org/10.1109/ICSE.2015.98) ICSE (1) 2015, pages 880-890.
+- Sebastian Proksch, Sven Amann, Sarah Nadi, Mira Mezini. [Evaluating the Evaluations of Code Recommender Systems: A Reality Check](https://doi.org/10.1145/2970276.2970330). ASE '16, pages 111-121.
+- Marcel Bruch, Martin Monperrus, Mira Mezini. [Learning from Examples to Improve Code Completion Systems](https://doi.org/10.1145/1595696.1595728). FSE '09, pages 213-222.
+- Tihomir Gvero, Viktor Kuncak, Ivan Kuraj, Ruzica Piskac. [Complete Completion Using Types and Weights](https://doi.org/10.1145/2499370.2462192), PLDI '13, pages 27-38.
 
 # Big Code
 - Vaseline Raychev, Martin Vechev, and Andreas Krause. Predicting Program Properties from "Big Code", POPL'15, pages 111-124.
