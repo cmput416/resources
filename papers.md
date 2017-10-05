@@ -40,11 +40,11 @@
 - William Enck, Peter Gilbert, Byung-Gon Chun, Landon P. Cox, Jaeyeon Jung, Patrick McDaniel, and Anmol N. Sheth. [TaintDroid: An Information-Flow Tracking System for Realtime Privacy Monitoring on Smartphones](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Enck.pdf), OSDI'10 @ USENIX.
 
 # Analyzing Dynamic Languages
-- David Hauzar and Jan Kofroň. Framework for Static Analysis of PHP Applications, ECOOP'15, pages 689-711.
-- Koushik Sen, Swaroop Kalasapur, Tasneem G. Brutch, and Simon Gibbs. Jalangi: a selective record-replay and dynamic analysis framework for JavaScript, FSE'13, pages 488-498.
-- Magnus Madsen, Frank Tip, and Ondřej Lhoták. Static Analysis of Event-Driven Node.js JavaScript Applications, OOPSLA'15, pages 505-519.
-- Essen Andreasen and Anders Møller. Determinacy in Static Analysis for jQuery, OOPSLA'14, pages 17-31.
-- Shiyi Wei and Barbara Ryder. Adaptive Context-sensitive Analysis for JavaScript, ECOOP'15, pages 712-734.
+- David Hauzar and Jan Kofroň. [Framework for Static Analysis of PHP Applications](http://dx.doi.org/10.4230/LIPIcs.ECOOP.2015.689), ECOOP '15, pages 689-711.
+- Koushik Sen, Swaroop Kalasapur, Tasneem G. Brutch, and Simon Gibbs. [Jalangi: A Selective Record-Replay and Dynamic Analysis Framework for JavaScript](https://doi.org/10.1145/2491411.2491447), FSE '13, pages 488-498.
+- Magnus Madsen, Frank Tip, and Ondřej Lhoták. [Static Analysis of Event-Driven Node.js JavaScript Applications](https://doi.org/10.1145/2858965.2814272), OOPSLA '15, pages 505-519.
+- Essen Andreasen and Anders Møller. [Determinacy in Static Analysis for jQuery](https://doi.org/10.1145/2714064.2660214), OOPSLA '14, pages 17-31.
+- Shiyi Wei and Barbara Ryder. [Adaptive Context-sensitive Analysis for JavaScript](http://dx.doi.org/10.4230/LIPIcs.ECOOP.2015.712), ECOOP '15, pages 712-734.
 
 # Code Recommender Systems
 - Reid Holmes, Gail C. Murphy. Using structural context to recommend source code examples, ICSE '05, pages 117-125.
