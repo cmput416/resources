@@ -10,3 +10,5 @@
 - [Wat - Destroy All Software](https://www.destroyallsoftware.com/talks/wat)
 - [A History of JavaScript Static Analysis with WALA at IBM URL](https://www.youtube.com/watch?v=pOglGMD5S3I)
 - [Changing Engines in Flight: Facebook's Conversion to Hack](https://www.youtube.com/watch?v=qmrMG4GElEY)
+- [Why Google Stores Billions of Lines of Code in a Single Repository?](https://www.youtube.com/watch?v=W71BTkUbdqE)
+- [Machine Learning for Programming](https://www.youtube.com/watch?v=59ujp8-Ijw4)
