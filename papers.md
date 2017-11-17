@@ -37,6 +37,7 @@
 - Cristiano Calcagno and Dino Distefano. [Infer: An Automatic Program Verifier for Memory Safety of C Programs](http://dx.doi.org/10.1007/978-3-642-20398-5_33), NFM '11, volume 6617 of LNCS, pages 459–465.
 
 # Security
+- Omer Tripp and Julia Rubin. [A Bayesian Approach to Privacy Enforcement in Smartphones](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-tripp.pdf), USENIX Security Symposium, pages175-190.
 - Jean Yang, Travis Hance, Thomas H. Austin, Armando Solar-Lezama, Cormac Flanagan, Stephen Chong. [Precise, Dynamic Information Flow for Database-Backed Applications](https://doi.org/10.1145/2980983.2908098), PLDI '16, pages 631-647.
 - Neville Grech and Yannis Smaragdakis. [P/Taint: Unified Points-to and Taint Analysis](https://yanniss.github.io/ptaint-oopsla17-prelim.pdf), OOPSLA '17 (to appear).
 - Steven Arzt, Siegfried Rasthofer, Christian Fritz, Eric Bodden, Alexandre Bartel, Jacques Klein, Yves Le Traon, Damien Octeau, and Patrick McDaniel. [FlowDroid: Precise Context, Flow, Field, Object-sensitive and Lifecycle-aware Taint Analysis for Android Apps](http://doi.acm.org/10.1145/2594291.2594299), PLDI '14, pages 259-269.
