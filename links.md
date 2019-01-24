@@ -1,6 +1,9 @@
 # Resources from Other Courses
 - [Static Program Analysis @ Århus](http://cs.au.dk/~amoeller/spa/)
 
+# Guides
+- [LLVM for Grad Students](https://www.cs.cornell.edu/~asampson/blog/llvm.html)
+
 # Talks
 - [Challenges in Large-Scale Mobile App Performance](https://www.youtube.com/watch?v=i-Xnubz-nzU)
 - [CLARA: CompiLe-Time Approximation of Runtime Analyses](http://mi2s.imag.fr/node/1564/)
@@ -14,4 +17,3 @@
 - [Changing Engines in Flight: Facebook's Conversion to Hack](https://www.youtube.com/watch?v=qmrMG4GElEY)
 - [Why Google Stores Billions of Lines of Code in a Single Repository?](https://www.youtube.com/watch?v=W71BTkUbdqE)
 - [Machine Learning for Programming](https://www.youtube.com/watch?v=59ujp8-Ijw4)
-- [LLVM for Grad Students](https://www.cs.cornell.edu/~asampson/blog/llvm.html)
