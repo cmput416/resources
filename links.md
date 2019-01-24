@@ -14,3 +14,4 @@
 - [Changing Engines in Flight: Facebook's Conversion to Hack](https://www.youtube.com/watch?v=qmrMG4GElEY)
 - [Why Google Stores Billions of Lines of Code in a Single Repository?](https://www.youtube.com/watch?v=W71BTkUbdqE)
 - [Machine Learning for Programming](https://www.youtube.com/watch?v=59ujp8-Ijw4)
+- [LLVM for Grad Students](https://www.cs.cornell.edu/~asampson/blog/llvm.html)
