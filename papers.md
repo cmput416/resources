@@ -112,6 +112,7 @@
 - Rajkishore Barik, Manu Sridharan, Murali Krishna Ramanathan, and Milind Chabbi. <a href="https://doi.org/10.1145/3360590">Optimization of Swift Protocols</a>, OOPSLA '19.
 
 # Program Repair
+- Rohan Bavishi, Hiroaki Yoshida, and Mukul R. Prasad. <a href="https://doi.org/10.1145/3338906.3338952">Phoenix: Automated Data-Driven Synthesis of Repairs for Static Analysis Violations</a>, FSE '19.
 - Johannes Bader, Andrew Scott, Michael Pradel, and Satish Chandra. <a href="https://doi.org/10.1145/3360585">Getafix: Learning to Fix Bugs Automatically</a>, OOPSLA '19.
 
 # Testing
