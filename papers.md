@@ -17,6 +17,7 @@
 
 # Lattice Thoery
 - Tamás Szabó, Gábor Bergmann, Sebastian Erdweg, and Markus Voelter. <a href="https://doi.org/10.1145/3276509">Incrementalizing Lattice-Based Program Analyses in Datalog</a>, OOPSLA '18.
+- John B. Kam and Jeffrey D. Ullman. [Monotone Data Flow Analysis Frameworks](https://doi.org/10.1007/BF00290339), Acta Informatica, 7:305-317, 1977.
 
 # Points-to and Call Graphs
 - Jingbo Lu and Jingling Xue. <a href="https://doi.org/10.1145/3360574">Precision-Preserving Yet Fast Object-Sensitive Pointer Analysis with Partial Context Sensitivity</a>, OOPSLA '19.
