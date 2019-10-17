@@ -2,8 +2,10 @@
 - Emery D. Berger, Celeste Hollenbeck, Petr Maj, Olga Vitek, and Jan Vitek. <a href="https://doi.org/10.1145/3340571">On the Impact of Programming Languages on Code Quality: A Reproduction Study</a>, TOPLAS '19.
 - Lina Qiu, Yingying Wang, and Julia Rubin. <a href="https://doi.org/10.1145/3213846.3213873">Analyzing the Analyzers: FlowDroid/IccTA, AmanDroid, and DroidSafe</a>, ISSTA '18.
 
-# User Studies
+# Exploratory Studies
 - Davood Mazinanian, Ameya Ketkar, Nikolaos Tsantalis, and Danny Dig. <a href="https://doi.org/10.1145/3133909">Understanding the Use of Lambda Expressions in Java </a>, OOPSLA '17.
+
+# User Studies
 - Brittany Johnson, Yoonki Song, Emerson R. Murphy-Hill, and Robert W. Bowdidge. [Why Don't Software Developers Use Static Analysis Tools to Find Bugs?](https://doi.org/10.1109/ICSE.2013.6606613), ICSE '13.
 - Justin Smith, Brittany Johnson, Emerson Murphy-Hill, Bill Chu, and Heather Richter Lipford. [Questions Developers Ask While Diagnosing Potential Security Vulnerabilities with Static Analysis](https://doi.org/10.1145/2786805.2786812), FSE '15.
 - Jim Witschey, Olga Zielinska, Allaire Welk, Emerson Murphy-Hill, Chris Mayhorn, and Thomas Zimmermann. [Quantifying Developers' Adoption of Security Tools](https://doi.org/10.1145/2786805.2786816), FSE '15.
