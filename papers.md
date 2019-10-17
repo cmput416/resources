@@ -32,6 +32,7 @@
 - Xin Zhang, Ravi Mangal, Mayur Naik, and Hongseok Yang. [Hybrid Top-down and Bottom-up Interprocedural Analysis](http://doi.acm.org/10.1145/2594291.2594328), PLDI '14, pages 249-258.
 
 # Analysis Frameworks and Infrastructure
+- Diego Garbervetsky, Edgardo Zoppi, and Benjamin Livshits. <a href="https://doi.org/10.1145/3106237.3106261">Toward Full Elasticity in Distributed Static Analysis: The Case of Callgraph Analysis.</a>, FSE '17, pages 442-453.
 - Martin Bravenboer and Yannis Smaragdakis. [Strictly declarative specification of sophisticated points-to analyses](http://doi.acm.org/10.1145/1640089.1640108), OOPSLA '09, pages 243-262.
 - Raja Vallée-Rai, Etienne Gagnon, Laurie J. Hendren, Patrick Lam, Patrice Pominville, and Vijay Sundaresan. [Optimizing Java Bytecode Using the Soot Framework: Is It Feasible?](http://dx.doi.org/10.1007/3-540-46423-9_2), CC '00, pages 18-34.
 - Caitlin Sadowski, Jeffrey van Gogh, Ciera Jaspan, Emma Söderberg, and Collin Winter. [Tricorder: Building a Program Analysis Ecosystem](http://dx.doi.org/10.1109/ICSE.2015.76), ICSE '15, pages 598-608.
@@ -74,6 +75,11 @@
 
 # Program Synthesis
 - Veselin Raychev, Pavol Bielik, Martin Vechev, Andreas Krause. [Learning Programs from Noisy Data](https://doi.org/10.1145/2837614.2837671), POPL '16, pages 761-774.
+- Kevin Ellis, Armando Solar-Lezama, and Joshua B. Tenenbaum. <a href="http://dl.acm.org/citation.cfm?id=2969239.2969348">Unsupervised Learning by Program Synthesis</a>, NIPS '15, pages 973-981.
 
 # Probabilistic Programming
 - Chung-Kil Hur, Aditya V. Nori, Sriram K. Rajamani, and Selva Samuel. [Slicing Probabilistic Programs](https://doi.org/10.1145/2666356.2594303), PLDI '14, pages 133-144.
+- Sriram Sankaranarayanan, Aleksandar Chakarov, and Sumit Gulwani. <a href="https://doi.org/10.1145/2499370.2462179">Static Analysis for Probabilistic Programs</a>, PLDI '13, pages 447-458.
+
+# Machine Learning
+- Omer Katz, Ran El-Yaniv, and Eran Yahav. <a href="https://doi.org/10.1145/2914770.2837674">Estimating Types in Binaries using Predictive Modeling</a>, POPL '16, pages 313-326.
