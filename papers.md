@@ -1,3 +1,7 @@
+# Replication Studies
+- Emery D. Berger, Celeste Hollenbeck, Petr Maj, Olga Vitek, and Jan Vitek. <a href="https://doi.org/10.1145/3340571">On the Impact of Programming Languages on Code Quality: A Reproduction Study</a>, TOPLAS '19, Volume 41, Issue 4, Article No. 21.
+- Lina Qiu, Yingying Wang, and Julia Rubin. <a href="https://doi.org/10.1145/3213846.3213873">Analyzing the Analyzers: FlowDroid/IccTA, AmanDroid, and DroidSafe</a>, ISSTA '18, pages 176-186.
+
 # User Studies
 - Davood Mazinanian, Ameya Ketkar, Nikolaos Tsantalis, and Danny Dig. <a href="https://doi.org/10.1145/3133909">Understanding the Use of Lambda Expressions in Java </a>, OOPSLA '17, Article No. 85.
 - Brittany Johnson, Yoonki Song, Emerson R. Murphy-Hill, and Robert W. Bowdidge. [Why Don't Software Developers Use Static Analysis Tools to Find Bugs?](https://doi.org/10.1109/ICSE.2013.6606613), ICSE '13, pages 672-681.
@@ -10,7 +14,12 @@
 - Flemming Nielson, Hanne Riis Nielson, and Chris Hankin. Principles of Program Analysis, 2005, Chapter 4.
 - Thomas Reps and Aditya Thakur. [Automating Abstract Interpretation](http://research.cs.wisc.edu/wpis/papers/vmcai16-invited.pdf).
 
+# Lattice Thoery
+- Tamás Szabó, Gábor Bergmann, Sebastian Erdweg, and Markus Voelter. <a href="https://doi.org/10.1145/3276509">Incrementalizing Lattice-Based Program Analyses in Datalog</a>, OOPSLA '18, pages 139:1-139:29.
+
 # Points-to and Call Graphs
+- Jingbo Lu and Jingling Xue. <a href="https://doi.org/10.1145/3360574">Precision-Preserving Yet Fast Object-Sensitive Pointer Analysis with Partial Context Sensitivity</a>, OOPSLA '19, Article No. 148.
+- Johannes Späth, Karim Ali, and Eric Bodden. <a href="https://dl.acm.org/citation.cfm?id=3290361">Context-, Flow-, and Field-sensitive Data-Flow Analysis using Synchronized Pushdown Systems</a>, POPL '19, pages 48:1-48:29.
 - Neville Grech, George Fourtounis, Adrian Francalanza, and Yannis Smaragdakis. <a href="https://doi.org/10.1145/3133892">Heaps Don't Lie: Countering Unsoundness with Heap Snapshots</a>, OOPSLA '17, Article No. 68.
 - Rei Thiessen and Ondřej Lhoták. <a href="https://doi.org/10.1145/3062341.3062359">Context Transformations for Pointer Analysis</a>, PLDI '17, pages 263-277.
 - Olin Shivers. [Control Flow Analysis in Scheme](http://dx.doi.org/10.1145/53990.54007), PLDI '88, pages 167-174.
@@ -32,6 +41,7 @@
 - Xin Zhang, Ravi Mangal, Mayur Naik, and Hongseok Yang. [Hybrid Top-down and Bottom-up Interprocedural Analysis](http://doi.acm.org/10.1145/2594291.2594328), PLDI '14, pages 249-258.
 
 # Analysis Frameworks and Infrastructure
+- Ganesha Upadhyaya and Hridesh Rajan. <a href="https://doi.org/10.1145/3180155.3180252">Collective Program Analysis</a>, ICSE '18, pages 620-631.
 - Diego Garbervetsky, Edgardo Zoppi, and Benjamin Livshits. <a href="https://doi.org/10.1145/3106237.3106261">Toward Full Elasticity in Distributed Static Analysis: The Case of Callgraph Analysis.</a>, FSE '17, pages 442-453.
 - Martin Bravenboer and Yannis Smaragdakis. [Strictly declarative specification of sophisticated points-to analyses](http://doi.acm.org/10.1145/1640089.1640108), OOPSLA '09, pages 243-262.
 - Raja Vallée-Rai, Etienne Gagnon, Laurie J. Hendren, Patrick Lam, Patrice Pominville, and Vijay Sundaresan. [Optimizing Java Bytecode Using the Soot Framework: Is It Feasible?](http://dx.doi.org/10.1007/3-540-46423-9_2), CC '00, pages 18-34.
@@ -78,8 +88,16 @@
 - Kevin Ellis, Armando Solar-Lezama, and Joshua B. Tenenbaum. <a href="http://dl.acm.org/citation.cfm?id=2969239.2969348">Unsupervised Learning by Program Synthesis</a>, NIPS '15, pages 973-981.
 
 # Probabilistic Programming
+- Di Wang, Jan Hoffmann, and Thomas W. Reps. <a href="https://doi.org/10.1145/3192366.3192408">PMAF: An Algebraic Framework for Static Analysis of Probabilistic Programs</a>, PLDI '18, pages 513-528.
 - Chung-Kil Hur, Aditya V. Nori, Sriram K. Rajamani, and Selva Samuel. [Slicing Probabilistic Programs](https://doi.org/10.1145/2666356.2594303), PLDI '14, pages 133-144.
 - Sriram Sankaranarayanan, Aleksandar Chakarov, and Sumit Gulwani. <a href="https://doi.org/10.1145/2499370.2462179">Static Analysis for Probabilistic Programs</a>, PLDI '13, pages 447-458.
 
 # Machine Learning
 - Omer Katz, Ran El-Yaniv, and Eran Yahav. <a href="https://doi.org/10.1145/2914770.2837674">Estimating Types in Binaries using Predictive Modeling</a>, POPL '16, pages 313-326.
+
+# Smart Contracts
+- Ilya Sergey, Vaivaswatha Nagaraj, Jacob Johannsen, Amrit Kumar, Anton Trunov, and Ken Chan Guan Hao. <a href="https://doi.org/10.1145/3360611">Safer Smart Contract Programming with Scilla</a>, OOPSLA '18,.
+- Neville Grech, Michael Kong, Anton Jurisevic, Lexi Brent, Bernhard Scholz, and Yannis Smaragdakis. <a href="https://doi.org/10.1145/3276486">MadMax: Surviving Out-of-Gas Conditions in Ethereum Smart Contracts</a>, OOPSLA '18, 116:1-116:27.
+
+
+
