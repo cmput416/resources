@@ -52,9 +52,10 @@
 - Cristiano Calcagno and Dino Distefano. [Infer: An Automatic Program Verifier for Memory Safety of C Programs](http://dx.doi.org/10.1007/978-3-642-20398-5_33), NFM '11.
 
 # Security
+- Victor Chibotaru, Benjamin Bichsel, Veselin Raychev, and Martin Vechev. <a href="https://doi.org/10.1145/3314221.3314648">Scalable Taint Specification Inference with Big Code</a>, PLDI '19.
+- Neville Grech and Yannis Smaragdakis. [P/Taint: Unified Points-to and Taint Analysis](https://doi.org/10.1145/3133926), OOPSLA '17.
 - Omer Tripp and Julia Rubin. [A Bayesian Approach to Privacy Enforcement in Smartphones](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-tripp.pdf), USENIX Security Symposium '14.
 - Jean Yang, Travis Hance, Thomas H. Austin, Armando Solar-Lezama, Cormac Flanagan, Stephen Chong. [Precise, Dynamic Information Flow for Database-Backed Applications](https://doi.org/10.1145/2980983.2908098), PLDI '16.
-- Neville Grech and Yannis Smaragdakis. [P/Taint: Unified Points-to and Taint Analysis](https://doi.org/10.1145/3133926), OOPSLA '17.
 - Paolina Centonze, Marco Pistoia, and Omer Tripp. [Access-Rights Analysis in the Presence of Subjects](http://dx.doi.org/10.4230/LIPIcs.ECOOP.2015.222), ECOOP '15.
 
 # Android
@@ -108,4 +109,7 @@
 # Program Repair
 - Johannes Bader, Andrew Scott, Michael Pradel, and Satish Chandra. <a href="https://doi.org/10.1145/3360585">Getafix: Learning to Fix Bugs Automatically</a>, OOPSLA '19.
 
+# Testing
+- Björn Mathis, Rahul Gopinath, Michaël Mera, Alexander Kampmann, Matthias Höschele, and Andreas Zeller. <a href="https://doi.org/10.1145/3314221.3314651">Parser-Directed Fuzzing</a>, PLDI '19.
+- Timotej Kapus, Oren Ish-Shalom, Shachar Itzhaky, Noam Rinetzky, and Cristian Cadar. <a href="https://doi.org/10.1145/3314221.3314610">Computing Summaries of String Loops in C for Better Testing and Refactoring</a>, PLDI '19.
 
