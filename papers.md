@@ -11,9 +11,8 @@
 - Jim Witschey, Olga Zielinska, Allaire Welk, Emerson Murphy-Hill, Chris Mayhorn, and Thomas Zimmermann. [Quantifying Developers' Adoption of Security Tools](https://doi.org/10.1145/2786805.2786816), FSE '15.
 - Maria Christakis and Christian Bird. [What Developers Want and Need from Program Analysis: An Empirical Study](https://doi.org/10.1145/2970276.2970347), ASE '16.
 
-# Monotone Dataflow Framework & Abstract Interpretation
-- John B. Kam and Jeffrey D. Ullman. [Monotone Data Flow Analysis Frameworks](https://doi.org/10.1007/BF00290339), Acta Informatica, 7:305-317, 1977.
-- Flemming Nielson, Hanne Riis Nielson, and Chris Hankin. Principles of Program Analysis, 2005, Chapter 4.
+# Abstract Interpretation
+- Elazar Gershuni, Nadav Amit, Arie Gurfinkel, Nina Narodytska, Jorge A. Navas, Noam Rinetzky, Leonid Ryzhyk, and Mooly Sagiv. <a href="https://doi.org/10.1145/3314221.3314590">Simple and Precise Static Analysis of Untrusted Linux Kernel Extensions</a>, PLDI '19.
 - Thomas Reps and Aditya Thakur. [Automating Abstract Interpretation](http://research.cs.wisc.edu/wpis/papers/vmcai16-invited.pdf).
 
 # Lattice Thoery
