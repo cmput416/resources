@@ -1,4 +1,5 @@
 # Replication Studies
+- Linghui Luo, Eric Bodden, and Johannes Späth. <a href="https://linghuiluo.github.io/ASE19Cova.pdf">A Qualitative Analysis of Android Taint-Analysis Results</a>, ASE '19.
 - Emery D. Berger, Celeste Hollenbeck, Petr Maj, Olga Vitek, and Jan Vitek. <a href="https://doi.org/10.1145/3340571">On the Impact of Programming Languages on Code Quality: A Reproduction Study</a>, TOPLAS '19.
 - Lina Qiu, Yingying Wang, and Julia Rubin. <a href="https://doi.org/10.1145/3213846.3213873">Analyzing the Analyzers: FlowDroid/IccTA, AmanDroid, and DroidSafe</a>, ISSTA '18.
 
@@ -16,6 +17,7 @@
 - Thomas Reps and Aditya Thakur. [Automating Abstract Interpretation](http://research.cs.wisc.edu/wpis/papers/vmcai16-invited.pdf).
 
 # Lattice Thoery
+- Gagandeep Singh, Timon Gehr, Markus Püschel, and Martin Vechev. <a href="https://doi.org/10.1145/3290354">An Abstract Domain for Certifying Neural Networks</a>, POPL '19.
 - Tamás Szabó, Gábor Bergmann, Sebastian Erdweg, and Markus Voelter. <a href="https://doi.org/10.1145/3276509">Incrementalizing Lattice-Based Program Analyses in Datalog</a>, OOPSLA '18.
 - John B. Kam and Jeffrey D. Ullman. [Monotone Data Flow Analysis Frameworks](https://doi.org/10.1007/BF00290339), Acta Informatica, 7:305-317, 1977.
 
@@ -70,6 +72,7 @@
 - William Enck, Peter Gilbert, Byung-Gon Chun, Landon P. Cox, Jaeyeon Jung, Patrick McDaniel, and Anmol N. Sheth. [TaintDroid: An Information-Flow Tracking System for Realtime Privacy Monitoring on Smartphones](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Enck.pdf), OSDI'10 @ USENIX.
 
 # Analyzing Dynamic Languages
+- Benjamin Barslev Nielsen, Behnaz Hassanshahi, and François Gauthier. <a href="https://doi.org/10.1145/3338906.3338933">Nodest: Feedback-Driven Static Analysis of Node.js Applications</a>, FSE '19.
 - Koushik Sen, Swaroop Kalasapur, Tasneem G. Brutch, and Simon Gibbs. [Jalangi: A Selective Record-Replay and Dynamic Analysis Framework for JavaScript](https://doi.org/10.1145/2491411.2491447), FSE '13.
 - Magnus Madsen, Frank Tip, and Ondřej Lhoták. [Static Analysis of Event-Driven Node.js JavaScript Applications](https://doi.org/10.1145/2858965.2814272), OOPSLA '15.
 - Essen Andreasen and Anders Møller. [Determinacy in Static Analysis for jQuery](https://doi.org/10.1145/2714064.2660214), OOPSLA '14.
