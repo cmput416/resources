@@ -1,4 +1,5 @@
 # User Studies
+- Davood Mazinanian, Ameya Ketkar, Nikolaos Tsantalis, and Danny Dig. <a href="https://doi.org/10.1145/3133909">Understanding the Use of Lambda Expressions in Java </a>, OOPSLA '17, Article No. 85.
 - Brittany Johnson, Yoonki Song, Emerson R. Murphy-Hill, and Robert W. Bowdidge. [Why Don't Software Developers Use Static Analysis Tools to Find Bugs?](https://doi.org/10.1109/ICSE.2013.6606613), ICSE '13, pages 672-681.
 - Justin Smith, Brittany Johnson, Emerson Murphy-Hill, Bill Chu, and Heather Richter Lipford. [Questions Developers Ask While Diagnosing Potential Security Vulnerabilities with Static Analysis](https://doi.org/10.1145/2786805.2786812), FSE '15, pages 248-259.
 - Jim Witschey, Olga Zielinska, Allaire Welk, Emerson Murphy-Hill, Chris Mayhorn, and Thomas Zimmermann. [Quantifying Developers' Adoption of Security Tools](https://doi.org/10.1145/2786805.2786816), FSE '15, pages 260-271.
@@ -10,6 +11,8 @@
 - Thomas Reps and Aditya Thakur. [Automating Abstract Interpretation](http://research.cs.wisc.edu/wpis/papers/vmcai16-invited.pdf).
 
 # Points-to and Call Graphs
+- Neville Grech, George Fourtounis, Adrian Francalanza, and Yannis Smaragdakis. <a href="https://doi.org/10.1145/3133892">Heaps Don't Lie: Countering Unsoundness with Heap Snapshots</a>, OOPSLA '17, Article No. 68.
+- Rei Thiessen and Ondřej Lhoták. <a href="https://doi.org/10.1145/3062341.3062359">Context Transformations for Pointer Analysis</a>, PLDI '17, pages 263-277.
 - Olin Shivers. [Control Flow Analysis in Scheme](http://dx.doi.org/10.1145/53990.54007), PLDI '88, pages 167-174.
 - Frank Tip, Jens Palsberg. [Scalable Propagation-Based Call Graph Construction Algorithms](http://doi.acm.org/10.1145/353171.353190), OOPSLA '00, pages 281-293.
 - Karim Ali, Marianna Rapoport, Ondřej Lhoták, Julian Dolby, and Frank Tip. [Constructing Call Graphs of Scala Programs](http://dx.doi.org/10.1007/978-3-662-44202-9_3), ECOOP '14, pages 54-79.  
