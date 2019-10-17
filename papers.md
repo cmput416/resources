@@ -39,15 +39,13 @@
 - Johannes Lerch, Johannes Späth, Eric Bodden, Mira Mezini. [Access-Path Abstraction: Scaling Field-Sensitive Data-Flow Analysis with Unbounded Access Paths (T)](http://dx.doi.org/10.1109/ASE.2015.9), ASE '15.
 - Johannes Späth, Lisa Nguyen Quang Do, Karim Ali, Eric Bodden. [Boomerang: Demand-Driven Flow- and Context-Sensitive Pointer Analysis for Java](http://dx.doi.org/10.4230/LIPIcs.ECOOP.2016.22), ECOOP '16.
 - Johannes Späth, Karim Ali, Eric Bodden. [IDEal: Efficient and Precise Alias-Aware Dataflow Analysis](http://doi.org/10.1145/3133923), OOPSLA '17.
-
-# Typestate Analysis
 - Nomair A. Naeem and Ondřej Lhoták. [Typestate-like Analysis of Multiple Interacting Objects](http://doi.acm.org/10.1145/1449764.1449792), OOPSLA '08.
 - Xin Zhang, Ravi Mangal, Mayur Naik, and Hongseok Yang. [Hybrid Top-down and Bottom-up Interprocedural Analysis](http://doi.acm.org/10.1145/2594291.2594328), PLDI '14.
 
 # Analysis Frameworks and Infrastructure
 - Ganesha Upadhyaya and Hridesh Rajan. <a href="https://doi.org/10.1145/3180155.3180252">Collective Program Analysis</a>, ICSE '18.
 - Diego Garbervetsky, Edgardo Zoppi, and Benjamin Livshits. <a href="https://doi.org/10.1145/3106237.3106261">Toward Full Elasticity in Distributed Static Analysis: The Case of Callgraph Analysis.</a>, FSE '17.
-- Martin Bravenboer and Yannis Smaragdakis. [Strictly declarative specification of sophisticated points-to analyses](http://doi.acm.org/10.1145/1640089.1640108), OOPSLA '09.
+- Martin Bravenboer and Yannis Smaragdakis. <a href="http://doi.acm.org/10.1145/1640089.1640108">Strictly Declarative Specification of Sophisticated Points-to Analyses</a>, OOPSLA '09.
 - David Hauzar and Jan Kofroň. [Framework for Static Analysis of PHP Applications](http://dx.doi.org/10.4230/LIPIcs.ECOOP.2015.689), ECOOP '15, pages 689-711.
 - Raja Vallée-Rai, Etienne Gagnon, Laurie J. Hendren, Patrick Lam, Patrice Pominville, and Vijay Sundaresan. [Optimizing Java Bytecode Using the Soot Framework: Is It Feasible?](http://dx.doi.org/10.1007/3-540-46423-9_2), CC '00.
 - Caitlin Sadowski, Jeffrey van Gogh, Ciera Jaspan, Emma Söderberg, and Collin Winter. [Tricorder: Building a Program Analysis Ecosystem](http://dx.doi.org/10.1109/ICSE.2015.76), ICSE '15.
