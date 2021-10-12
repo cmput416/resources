@@ -1,3 +1,13 @@
+<table border="1">
+    <thead>
+        <tr>
+            <th width="10%">Date</th>
+            <th>Paper</th>
+            <th>Presenter(s)</th>
+            <th>Validator(s)</th>
+        </tr>
+    </thead>
+    <tbody>
         <tr>
             <td></td>
             <td>Qiaochu Chen, Aaron Lamoreaux, Xinyu Wang, Greg Durrett, Osbert Bastani, and Isil Dillig. <a href="https://doi.org/10.1145/3453483.3454047">Web Question Answering with Neurosymbolic Program Synthesis</a>, PLDI '21.</td>
@@ -126,3 +136,5 @@
             <td></td>
             <td></td>
         </tr>
+    </tbody>
+</table>
